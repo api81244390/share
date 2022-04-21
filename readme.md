@@ -2,7 +2,7 @@
 
 <br>
 
-<center><font color=#3CB371 size=3><a href="https://bbs.jybest.ltd/">大为的Blog</a>  -  <a href="mailto:81244390@qq.com">Email</a></font></center>
+<div align=center><font color=#3CB371 size=3><a href="https://bbs.jybest.ltd/">大为的Blog</a>  -  <a href="mailto:81244390@qq.com">Email</a></font></div>
 
 <br>
 
